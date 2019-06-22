@@ -1,0 +1,6 @@
+owner=557181389100023839
+prefix=1
+game=Bot Music 
+stayinchannel=true
+songinstatus=false
+token=NTkxOTAwNTgxNjI3NjkxMDIx.XQ3gZA.XSOBEOWR9DGLDvKgY9FT5mul2Fc
